@@ -1,0 +1,6 @@
+### Ignorando arquivos ###
+.jar
+.xml
+
+### Ignorando pasta ###
+node_modules/
